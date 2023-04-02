@@ -2,7 +2,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
+    gap: 1.5rem;
     background: linear-gradient(0.33turn, #3f87a6, #ebf8e1, #f69d3c, #d3617b);
     background-blend-mode: screen;
 }
